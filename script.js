@@ -3,6 +3,7 @@ const USD = 4.87
 const EUR = 5.32
 const GBP = 6.08
 
+//DECLARAÇÃO DAS VARIAVEIS 
 const form = document.querySelector("form")
 const amount = document.querySelector("#amount");
 const currency = document.querySelector("#currency");
